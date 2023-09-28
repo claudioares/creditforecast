@@ -1,7 +1,8 @@
 # creditforecast
+
 # Projeto de Modelo de IA para Previsão de Pagadores
 
-Neste projeto, vamos criar um modelo de IA utilizando Python e algumas bibliotecas populares, como pandas, numpy e scikit-learn, para prever a probabilidade de um cliente ser um bom pagador, um pagador razoável ou um mau pagador com base em dados do banco de clientes. Este arquivo Markdown servirá como um guia de alto nível para o projeto.
+Neste projeto, vamos usar dois modelos de IA (Random Forest, knn) para comparar qual modelo é mais eficaz, utilizando Python e algumas bibliotecas populares, como pandas, numpy e scikit-learn, para prever a probabilidade de um cliente ser um bom pagador, um pagador razoável ou um mau pagador com base em dados do banco de clientes. Este arquivo Markdown servirá como um guia de alto nível para o projeto.
 
 ## Objetivo
 
